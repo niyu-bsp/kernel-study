@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/arch/arm64/include/", 
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/arch/arm64/include/generated",
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/include/", 
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/arch/arm64/include/uapi/",
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/arch/arm64/include/generated/uapi",
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/include/uapi/",
+                "/home/niyu/Desktop/raspberry/buildroot/output/build/linux-custom/include/generated/uapi/",
+                "/usr/lib/gcc-cross/aarch64-linux-gnu/9/include/" 
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/clang-15",
+            "cStandard": "c17",
+            "cppStandard": "c++14",
+            "intelliSenseMode": "linux-clang-x64"
+        }
+    ],
+    "version": 4
+}
